@@ -8,6 +8,10 @@
 
    常用的命令：
 
+   - `git status`
+
+   - `git log`
+
    - `git add`
 
    -  `git merge`
