@@ -7,6 +7,8 @@
    官网地址：https://git-scm.com/
 
    常用的命令：
+   
+   - `git init`
 
    - `git status`
 
