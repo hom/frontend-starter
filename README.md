@@ -7,28 +7,32 @@
    官网地址：https://git-scm.com/
 
    常用的命令：
-   
-   - `git init`
 
-   - `git status`
+   - `git init` 初始化一个仓库
 
-   - `git log`
+   - `git status` 查看当前仓库文件的状态
 
-   - `git add`
+   - `git log` 查看仓库提交历史
 
-   -  `git merge`
+   - `git add` 添加更改的文件到暂存区
 
-   -  `git push`
+   - `git commit` 提交文件变更
 
-   -  `git clone`
+   - `git push` 推送文件到远程仓库
 
-   -  `git fetch`
+   - `git remote -v` 查看远程仓库信息
 
-   -  `git checkout`
+   -  `git merge` 合并分支
 
-   -  `git reset`
+   -  `git push` 提交到远程仓库
 
-   -  `git restore`
+   -  `git clone` 克隆远程仓库
+
+   -  `git fetch` 从远程仓库拉取代码
+
+   -  `git checkout` 放弃本地修改或者切换分支
+
+   -  `git restore` 将暂存区的代码放回到更改
 
      其他的一些命令可以结合开发使用了解
 
